@@ -30,7 +30,7 @@ Edit
 `app.component.html`
 `.angular-cli.json`
 ## Usage
-![Alt description](https://lh3.googleusercontent.com/klstCr9ed6PjOLAZOk8MLZB-38H8gTC0eQxv80uOS94UpTW2l9gKdDDg61zocz9iZNYIE0aQMetEkKXngxT5=w1366-h637)
+![Alt description](https://lh5.googleusercontent.com/DuR7MjkQtUn3JEuhWfW6l4sLdMVnVJdgGCuanUjQBv-5enPum8ck6rYy6QDoSMBF45DDujgB7Bv3QdeNNpee=w1366-h637)
 
 ​
 © 2018 GitHub, Inc.
